@@ -1,0 +1,6 @@
+entity decodificador is
+	port (
+		e1,e0,en:in bit;
+		s0,s1,s2,s3:out bit
+		);
+end;
